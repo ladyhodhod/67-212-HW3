@@ -1,0 +1,7 @@
+a1.txt science
+a2.txt politics
+a3.txt car-sport
+a4.txt comp
+a5.txt comp
+# the above annotations are fake.  Make sure to remove them and this
+line before finishing the annotation task.
